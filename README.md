@@ -6,3 +6,4 @@
 | `issue-elaborator` | Transforms issue drafts into well-structured GitHub issue markdown with codebase context |
 | `react-unnecessary-effects` | Reviews React code for unnecessary `useEffect` usage and suggests better alternatives |
 | `studio-code-quality` | Enforces Altinn Studio code quality guidelines for function design, naming, testing, and code organization |
+| `text-content-review` | Reviews GUI texts — error messages, labels, help texts, and tone of voice — against klarspråk and UU guidelines |
